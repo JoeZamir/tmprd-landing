@@ -1,0 +1,82 @@
+{
+  "4": {
+    "width": 1080,
+    "height": 1350,
+    "srcset": {
+      "avif": "/optimized/4-400.avif 400w, /optimized/4-800.avif 800w, /optimized/4-1080.avif 1080w",
+      "webp": "/optimized/4-400.webp 400w, /optimized/4-800.webp 800w, /optimized/4-1080.webp 1080w",
+      "jpg": "/optimized/4-400.jpg 400w, /optimized/4-800.jpg 800w, /optimized/4-1080.jpg 1080w"
+    },
+    "fallback": "/optimized/4-1080.jpg"
+  },
+  "5": {
+    "width": 1080,
+    "height": 1350,
+    "srcset": {
+      "avif": "/optimized/5-400.avif 400w, /optimized/5-800.avif 800w, /optimized/5-1080.avif 1080w",
+      "webp": "/optimized/5-400.webp 400w, /optimized/5-800.webp 800w, /optimized/5-1080.webp 1080w",
+      "jpg": "/optimized/5-400.jpg 400w, /optimized/5-800.jpg 800w, /optimized/5-1080.jpg 1080w"
+    },
+    "fallback": "/optimized/5-1080.jpg"
+  },
+  "6": {
+    "width": 1080,
+    "height": 1350,
+    "srcset": {
+      "avif": "/optimized/6-400.avif 400w, /optimized/6-800.avif 800w, /optimized/6-1080.avif 1080w",
+      "webp": "/optimized/6-400.webp 400w, /optimized/6-800.webp 800w, /optimized/6-1080.webp 1080w",
+      "jpg": "/optimized/6-400.jpg 400w, /optimized/6-800.jpg 800w, /optimized/6-1080.jpg 1080w"
+    },
+    "fallback": "/optimized/6-1080.jpg"
+  },
+  "7": {
+    "width": 1080,
+    "height": 1350,
+    "srcset": {
+      "avif": "/optimized/7-400.avif 400w, /optimized/7-800.avif 800w, /optimized/7-1080.avif 1080w",
+      "webp": "/optimized/7-400.webp 400w, /optimized/7-800.webp 800w, /optimized/7-1080.webp 1080w",
+      "jpg": "/optimized/7-400.jpg 400w, /optimized/7-800.jpg 800w, /optimized/7-1080.jpg 1080w"
+    },
+    "fallback": "/optimized/7-1080.jpg"
+  },
+  "8": {
+    "width": 1080,
+    "height": 1350,
+    "srcset": {
+      "avif": "/optimized/8-400.avif 400w, /optimized/8-800.avif 800w, /optimized/8-1080.avif 1080w",
+      "webp": "/optimized/8-400.webp 400w, /optimized/8-800.webp 800w, /optimized/8-1080.webp 1080w",
+      "jpg": "/optimized/8-400.jpg 400w, /optimized/8-800.jpg 800w, /optimized/8-1080.jpg 1080w"
+    },
+    "fallback": "/optimized/8-1080.jpg"
+  },
+  "9": {
+    "width": 1080,
+    "height": 1350,
+    "srcset": {
+      "avif": "/optimized/9-400.avif 400w, /optimized/9-800.avif 800w, /optimized/9-1080.avif 1080w",
+      "webp": "/optimized/9-400.webp 400w, /optimized/9-800.webp 800w, /optimized/9-1080.webp 1080w",
+      "jpg": "/optimized/9-400.jpg 400w, /optimized/9-800.jpg 800w, /optimized/9-1080.jpg 1080w"
+    },
+    "fallback": "/optimized/9-1080.jpg"
+  },
+  "10": {
+    "width": 1080,
+    "height": 1350,
+    "srcset": {
+      "avif": "/optimized/10-400.avif 400w, /optimized/10-800.avif 800w, /optimized/10-1080.avif 1080w",
+      "webp": "/optimized/10-400.webp 400w, /optimized/10-800.webp 800w, /optimized/10-1080.webp 1080w",
+      "jpg": "/optimized/10-400.jpg 400w, /optimized/10-800.jpg 800w, /optimized/10-1080.jpg 1080w"
+    },
+    "fallback": "/optimized/10-1080.jpg"
+  },
+  "11": {
+    "width": 1080,
+    "height": 1350,
+    "srcset": {
+      "avif": "/optimized/11-400.avif 400w, /optimized/11-800.avif 800w, /optimized/11-1080.avif 1080w",
+      "webp": "/optimized/11-400.webp 400w, /optimized/11-800.webp 800w, /optimized/11-1080.webp 1080w",
+      "jpg": "/optimized/11-400.jpg 400w, /optimized/11-800.jpg 800w, /optimized/11-1080.jpg 1080w"
+    },
+    "fallback": "/optimized/11-1080.jpg"
+  }
+}
