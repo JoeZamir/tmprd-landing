@@ -1030,7 +1030,7 @@ header {
   }
 
   .photogrid-cta {
-    grid-column: span 4;
+    grid-column: span 5;
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
