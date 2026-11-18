@@ -933,10 +933,10 @@ header {
   }
 }
 
-/* results grid: 2 cols -> 6 on big desktop. 8 tiles + a CTA tile that fills the last row at every column count */
+/* results grid: 1 cols -> 6 on big desktop. 8 tiles + a CTA tile that fills the last row at every column count */
 .photogrid {
   display: grid;
-  grid-template-columns: repeat(1, minmax(0, 1fr) 1fr);
+  grid-template-columns: repeat(1, minmax(0, 1fr));
   gap: var(--s2);
   margin-top: var(--s5);
 }
